@@ -1,0 +1,2 @@
+# PostToWordpress
+Wordpressに投稿するためのコード
